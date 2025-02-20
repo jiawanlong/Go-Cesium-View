@@ -1,0 +1,37 @@
+{
+  "visible": true,
+  "label": {
+    "visible": true,
+    "style": {
+      "fontSize": 12,
+      "fill": "#B9B8CE",
+      "fontFamily": "SimSun",
+      "fontWeight": "normal",
+      "angle": 0
+    }
+  },
+  "title": {
+    "visible": true,
+    "style": {
+      "text": "",
+      "fontSize": 12,
+      "fill": "#B9B8CE",
+      "fontFamily": "SimSun",
+      "fontWeight": "normal"
+    }
+  },
+  "domainLine": {
+    "visible": false,
+    "style": {
+      "lineWidth": 1,
+      "stroke": "#D5D7E2"
+    }
+  },
+  "grid": {
+    "visible": true,
+    "style": {
+      "lineWidth": 1,
+      "stroke": "#FFFFFF24"
+    }
+  }
+}
