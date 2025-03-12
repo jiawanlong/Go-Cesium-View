@@ -11,7 +11,7 @@ function pathResolve(dir: string) {
 }
 
 export default defineConfig({
-  base: './',
+  base: '/Go-Cesium-View/',
   // 修改端口
   server: {
     port: 3020,
